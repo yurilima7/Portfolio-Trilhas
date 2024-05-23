@@ -61,8 +61,7 @@ nav {
 }
 
 .nav_link {
-    text-decoration: underline var(--primary-color) 3px;
-    text-underline-offset: 8px;
+    border-bottom: 3px solid var(--primary-color);
 }
 
 .nav_container {
